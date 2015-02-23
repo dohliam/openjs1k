@@ -1,5 +1,5 @@
 * [1 The problem](#the-problem)
-  * [1.1 Why it's important](#why-it's-important)
+  * [1.1 Why it's important](#why-its-important)
   * [1.2 Why licensing entries is a good idea](#why-licensing-entries-is-a-good-idea)
 * [2 Purpose](#purpose)
 * [3 To do](#to-do)
