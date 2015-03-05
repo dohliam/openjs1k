@@ -53,21 +53,46 @@ This list is being constantly expanded and revised. Going through the vast amoun
 
 ## Have source repo, no license
 The following js1k submissions are included in Github repos without license information. Authors should be contacted individually to request adding a license.
+
 * [Mine[love]craft, Strange_crystals_II, Buggy_island](https://github.com/ehouais/js1k) | https://github.com/ehouais/js1k | @ehouais
 * [Elimination!](http://js1k.com/2014-dragons/demo/1777) | https://github.com/polgfred/js1k | @polgfred
 * [Tron](http://js1k.com/2013-spring/demo/1428) | https://github.com/alexturpin/js1k-tron | @alexturpin
 * [2048@938](http://js1k.com/2014-dragons/demo/1862) | https://github.com/npup/js1k-2014 | @npup
+* [~ PHI ~](http://js1k.com/2010-first/details/695) | https://github.com/premasagar/js1k | @premasagar
+* [Cloudy heart](http://js1k.com/2012-love/details/1247) | https://github.com/tehmou/js1k-bubbling-heart | @tehmou
+* [Fuse](http://js1k.com/2012-love/details/1254) | https://gist.github.com/aemkei/1989127 | @aemkei
+* [Conway's Game of Life](http://js1k.com/2012-love/details/1111) | https://github.com/aaronm67/js1k | @aaronm67
+* [Platonic Solids](http://js1k.com/2015-hypetrain/demo/2120) | https://github.com/kovacsv/JS1K/tree/master/2015-PlatonicSolids | @kovacsv
+* [Circles](http://js1k.com/2014-dragons/demo/1755) | https://github.com/kovacsv/JS1K/tree/master/2014-Circles | @kovacsv
 
 ## Have source and contact info, no license
 The following js1k submissions are not included in any public Github repo but author contact information (or at least a name) is available. Authors should be contacted individually to request a free license.
+
 * [1K Boing Ball](http://js1k.com/2014-dragons/details/1672) | [Nikola Fox](https://github.com/juusu) | @juusu
 * [Have you ever tried to catch a firefly?](http://js1k.com/2013-spring/details/1462) | [Carlos Nieto](https://github.com/xiam) | @xiam
 * [GORILLAS.JS2K](http://js1k.com/2014-dragons/details/1971) | [https://github.com/koenkivits](Koen Kivits) | @koenkivits
-* [Move the ball through the game using the mouse cursor](http://js1k.com/2010-first/details/823) | [Romain Huet](https://github.com/romainhuet)
+* [Move the ball through the game using the mouse cursor](http://js1k.com/2010-first/details/823) | [Romain Huet](https://github.com/romainhuet) | @romainhuet
 * [YASS (yet another simple shmup)](http://js1k.com/2014-dragons/details/1793) | [Luis Toledo](https://github.com/luistoledo) | @luistoledo
+* [Over The Hills](http://js1k.com/2013-spring/details/1542) | [Joshua Koo](https://github.com/zz85/) | @zz85
+* [Color-Vision Simulation & Daltonization for Protanopic Observers ](http://js1k.com/2010-first/details/391) | [Michael Deal](https://github.com/mudcube) | @mudcube
+* [RGB color spectrum mixer](http://js1k.com/2010-first/details/102) | [Michael Deal](https://github.com/mudcube) | @mudcube
+* [Hypotrochoid with dynamically changing color and diameter](http://js1k.com/2010-first/details/210) | [Michael Deal](https://github.com/mudcube) | @mudcube
+* [Galaxies visualization](http://js1k.com/2010-first/details/166) | [Michael Deal](https://github.com/mudcube) | @mudcube
+* [Psychedelic spectro-spirographs](http://js1k.com/2010-first/details/92) | [Michael Deal](https://github.com/mudcube) | @mudcube
+* [Breath](http://js1k.com/2014-dragons/details/1648) | [Anton Khlynovskiy](https://github.com/subzey) | @subzey
+* [雨RAIN](http://js1k.com/2015-hypetrain/details/2135) | [Martin Kleppe](https://github.com/aemkei) | @aemkei
+* [Lorenz Attractor](http://js1k.com/2010-first/details/216) | [Martin Kleppe](https://github.com/aemkei) | @aemkei
+* [8-Bit RPG Battle!](http://js1k.com/2012-love/details/1175) | [Hugo Bonacci](https://github.com/hugoware) | @hugoware
+* [Canvas Grid ](http://js1k.com/2010-first/details/726) | [Vladimir Carrer](https://github.com/vladocar) | @vladocar
+* [updated 3d particle system](http://js1k.com/2010-first/details/753) | [Paul Brunt](https://github.com/supereggbert) | @supereggbert
 
-## Have contact info only, no license
-These submissions include neither a source nor a license, but do have author contact information. Authors should be contacted individually to request releasing the source code under a free license.
+## No source, no license
+These submissions include neither an unobfuscated source nor a license, but do have author contact information. Authors should be contacted individually to request releasing the source code under a free license.
+
+* [Pulsing 3d wires with volumetric beams](http://js1k.com/2010-first/details/171) | [Steven Wittens](https://github.com/unconed) | @unconed
+* [Synth Sphere](http://js1k.com/2013-spring/details/1558) | [Noah Weninger](https://github.com/nwoeanhinnogaehr) | @nwoeanhinnogaehr
+* [js1k Poker](http://js1k.com/2011-trail/demo/949) | [Martin Kleppe](https://github.com/aemkei) | @aemkei
+
 
 # Acknowledgements
 
