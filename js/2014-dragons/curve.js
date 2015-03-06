@@ -1,0 +1,1 @@
+(function(e,f,g,h,b,l){function k(){b.beginPath();b.moveTo(0,0);b.lineTo(e,0);b.stroke();var d=m++,d=0!==((d&-d)<<1&d);b.translate(e,0);d?b.rotate(f):b.rotate(-f);l(k)}b.translate(g(90*e,2*h.width/3),g(45*e,2*h.height/3));b.strokeStyle="black";var m=1;k()})(5,Math.PI/2,Math.min,a,c,requestAnimationFrame);
