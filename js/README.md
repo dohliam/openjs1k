@@ -1,6 +1,5 @@
 Source file  | Title | Description | Author | License | Original js1k entry | Author website | Other information
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
-
 2048bytes.js | 2048 | 2048 clone in 2048 bytes | Johan Nordberg | MIT | [demo](http://js1k.com/2014-dragons/demo/1824) / [details](http://js1k.com/2014-dragons/details/1824) | http://johan-nordberg.com/ | Compressed source is exactly 2048 bytes
 animatedsquares.js | Animated Squares | Creates a grid of squares that animates colors as the mouse moves | Livingston Samuel | MIT | [demo](http://js1k.com/2010-first/demo/444) / [details](http://js1k.com/2010-first/details/444) | http://github.com/livingston/ | Modified version of Squares - http://github.com/livingston/Squares
 attractors.js | Very Strange Attractors | A system of 3 equations - doing quite a bit | Chris Mckenzie | MIT | [demo](http://js1k.com/2013-spring/demo/1534) / [details](http://js1k.com/2013-spring/details/1534) | https://github.com/kristopolous/js1k
