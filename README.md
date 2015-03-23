@@ -11,7 +11,7 @@
 
 # The problem
 
-As many Javscript enthusiasts are aware, [js1k](http://js1k.com/) is an amazing and often inspiring annual js coding golf competition that is frequently also quite educational (in the sense of "Wow, [you can do _that_ in js](http://js1k.com/2014-dragons/demo/1951)?!").
+As many JavaScript enthusiasts are aware, [js1k](http://js1k.com/) is an amazing and often inspiring annual js coding golf competition that is frequently also quite educational (in the sense of "Wow, [you can do _that_ in js](http://js1k.com/2014-dragons/demo/1951)?!").
 
 For those wanting to re-use any of this great code in their projects, however, [there is a problem](http://js1k.com/about):
 
@@ -58,12 +58,9 @@ The following js1k submissions are included in Github repos without license info
 * [Elimination!](http://js1k.com/2014-dragons/demo/1777) | https://github.com/polgfred/js1k | @polgfred
 * [Tron](http://js1k.com/2013-spring/demo/1428) | https://github.com/alexturpin/js1k-tron | @alexturpin
 * [2048@938](http://js1k.com/2014-dragons/demo/1862) | https://github.com/npup/js1k-2014 | @npup
-* [~ PHI ~](http://js1k.com/2010-first/details/695) | https://github.com/premasagar/js1k | @premasagar
 * [Cloudy heart](http://js1k.com/2012-love/details/1247) | https://github.com/tehmou/js1k-bubbling-heart | @tehmou
 * [Fuse](http://js1k.com/2012-love/details/1254) | https://gist.github.com/aemkei/1989127 | @aemkei
 * [Conway's Game of Life](http://js1k.com/2012-love/details/1111) | https://github.com/aaronm67/js1k | @aaronm67
-* [Platonic Solids](http://js1k.com/2015-hypetrain/demo/2120) | https://github.com/kovacsv/JS1K/tree/master/2015-PlatonicSolids | @kovacsv
-* [Circles](http://js1k.com/2014-dragons/demo/1755) | https://github.com/kovacsv/JS1K/tree/master/2014-Circles | @kovacsv
 
 ## Have source and contact info, no license
 The following js1k submissions are not included in any public Github repo but author contact information (or at least a name) is available. Authors should be contacted individually to request a free license.
