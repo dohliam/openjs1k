@@ -1,0 +1,40 @@
+k=c;c=document.getElementsByTagName('canvas')[0];
+c.width=c.clientWidth/4;c.height=c.clientHeight/4;
+r=0;s=1;n=40;
+cw=c.width;cx=cw/2;
+ch=c.height;cy=ch/2;
+d=cw/60;
+omd=function(e){px=e.pageX;py=e.pageY;d=1;};
+b.onmousedown=omd;
+b.addEventListener('touchstart',function(e){omd(e.touches[0]);});
+omm=function(e){if(d){cx+=(e.pageX-px)/200;cy+=(e.pageY-py)/200;}};
+b.onmousemove=omm;
+b.addEventListener('touchmove',function(e){omm(e.touches[0]);});
+omu=function(){d=0;};
+b.onmouseup=omu;
+b.addEventListener('touchend',omu);
+k.fillStyle="white";
+k.fillRect(0,0,cw,ch);
+k.fillStyle="black";
+for(i=0;i<n;i++) {
+ k.save();
+ k.translate(cx,cy);
+ k.rotate(((Math.PI*2)/n)*i);
+ k.beginPath();
+ k.moveTo(0,0);
+ k.lineTo(-d,cw);
+ k.lineTo(+d,cw);
+ k.lineTo(0,0);
+ k.fill();
+ k.restore();
+}
+s=1;d=0;
+setInterval(function(){
+ k.save();
+ k.translate(cx,cy);
+ k.rotate(r);
+ k.translate(-cx,-cy);
+ r+=0.0005;
+ k.drawImage(c,s,s,cw-s-s,ch-s-s);
+ k.restore();
+},30);
