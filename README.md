@@ -5,9 +5,10 @@
 * [3 To do](#to-do)
   * [3.1 Have source repo, no license](#have-source-repo,-no-license)
   * [3.2 Have source and contact info, no license](#have-source-and-contact-info,-no-license)
-  * [3.3 Have contact info only, no license](#have-contact-info-only,-no-license)
-* [4 Acknowledgements](#acknowledgements)
-* [5 License](#license)
+  * [3.3 No source, no license](#no-source,-no-license)
+* [4 Viewing the entries](#viewing-the-entries)
+* [5 Acknowledgements](#acknowledgements)
+* [6 License](#license)
 
 # The problem
 
@@ -90,6 +91,9 @@ These submissions include neither an unobfuscated source nor a license, but do h
 * [Synth Sphere](http://js1k.com/2013-spring/details/1558) | [Noah Weninger](https://github.com/nwoeanhinnogaehr) | @nwoeanhinnogaehr
 * [js1k Poker](http://js1k.com/2011-trail/demo/949) | [Martin Kleppe](https://github.com/aemkei) | @aemkei
 
+# Viewing the entries
+
+All of the freely-licensed js1k entries included in this repository can be viewed using the [js1k Competition Entry Browser](https://dohliam.github.io/jsbrowser/), or by following the [links to the original demos](https://github.com/dohliam/openjs1k/tree/master/js).
 
 # Acknowledgements
 
@@ -99,6 +103,6 @@ And a very big thank you to all the authors who took the time to freely license 
 
 # License
 
-This repo is released under the MIT License (see LICENSE file for details). As the najority of entries that include a license use MIT, it seemed easiest to use that license here too. Exceptions and individual author credits are listed in the overview file, and generally also in the original source files for each entry (i.e., entryname_src.js).
+The project itself is released under the MIT License (see LICENSE file for details). As the majority of entries that include a license use MIT, it seemed easiest to use that license here too. Individual entries retain their original license.
 
-An overview of the included scripts and further details about individual entries can be found in the README.md file in the js/ directory.
+An overview of the included scripts and further details about individual entries can be found in the [README.md](https://github.com/dohliam/openjs1k/tree/master/js) file in the js/ directory. Please see the table in that file for full license information and author credits for all entries.
