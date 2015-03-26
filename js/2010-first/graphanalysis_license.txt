@@ -1,0 +1,4 @@
+/* jStat - Statistical Library
+ * Copyright (c) 2010, Trevor Norris
+ * This document is licensed as free software under the terms of the
+ * MIT License: http://www.opensource.org/licenses/mit-license.php */

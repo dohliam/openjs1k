@@ -1,0 +1,2 @@
+// Texture generator and better commented (less hacked up source) located at http://somethinghitme.com/projects/cell/	
+// MIT license, do whatever you please.

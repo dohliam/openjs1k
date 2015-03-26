@@ -1,0 +1,6 @@
+/*! Animated Squares
+ *
+ * @author Livingston Samuel
+ * @license MIT License
+ *
+ */

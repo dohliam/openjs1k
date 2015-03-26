@@ -1,0 +1,2 @@
+Javascript crusher by @aivopaas.
+Licensed under MIT license (http://opensource.org/licenses/mit-license.html).

@@ -1,0 +1,16 @@
+{
+  "name": "js1k-2015",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FakeYou/js1k-2015.git"
+  },
+  "author": "Andre Nanninga <ag.nanninga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FakeYou/js1k-2015/issues"
+  },
+  "homepage": "https://github.com/FakeYou/js1k-2015",
+}

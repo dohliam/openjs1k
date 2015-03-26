@@ -1,0 +1,17 @@
+{
+  "name": "js1k",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dragon1.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattdesl/js1k.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattdesl/js1k/issues"
+  },
+  "homepage": "https://github.com/mattdesl/js1k"
+}

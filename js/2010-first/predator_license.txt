@@ -1,0 +1,9 @@
+/*
+ * Predator on acid - JS1K submission
+ * - Compress using closure compiler <http://closure-compiler.appspot.com/>
+ * 
+ * Released under WTFPL license <http://sam.zoy.org/wtfpl/>.
+ * 
+ * @author Miller Medeiros <http://millermedeiros.com/>
+ * @version 0.1 (2010/08/06)
+ */

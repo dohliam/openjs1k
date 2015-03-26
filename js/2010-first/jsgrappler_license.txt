@@ -1,0 +1,7 @@
+/*
+  Copyright (c) 2010, Jason Brown. All rights reserved.
+  Code licensed under the BSD License:
+  http://somethinghitme.com/projects/jsgrapple/license.txt
+
+  Concept from the awesome game Wire Hang Redux (http://www.gingerbeardman.com/wirehang/) by Matt Sephton
+*/

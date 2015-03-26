@@ -1,0 +1,5 @@
+/*
+Copyright (c) 2010, Patrick Wied. All rights reserved.
+Code licensed under the BSD License:
+http://patrick-wied.at/static/license.txt
+*/

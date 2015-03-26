@@ -1,0 +1,10 @@
+/*
+ * File: life-js1k.htm
+ * Author: Sean Cline
+ * Version: .1
+ * Description: An HTML5 canvas-drawn "life" universe for Conway's Game of Life.
+ * License: You may do whatever you please with this file and any code it contains. It is public domain!
+ * Notes: This file is does not have what most people what consider good coding practices. It is in the name of fitting as much as possible a small space.
+ * 	It is effectively a stripped down version of my more functional JS life example found here:
+ * 	http://www.eng.utoledo.edu/~scline/life/life.html
+ */

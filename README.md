@@ -105,4 +105,7 @@ And a very big thank you to all the authors who took the time to freely license 
 
 The project itself is released under the MIT License (see LICENSE file for details). As the majority of entries that include a license use MIT, it seemed easiest to use that license here too. Individual entries retain their original license.
 
-An overview of the included scripts and further details about individual entries can be found in the [README.md](https://github.com/dohliam/openjs1k/tree/master/js) file in the js/ directory. Please see the table in that file for full license information and author credits for all entries.
+An overview of the included scripts and further details about individual entries can be found in the [README.md](https://github.com/dohliam/openjs1k/tree/master/js) file in the js/ directory. Please see the table in that file for full license and attribution information for all entries.
+
+Additionally, each entry e.g. `someentry.js` has a corresponding license file e.g. `someentry_license.txt` with the full unaltered text of the orginal license under which it was released.
+
