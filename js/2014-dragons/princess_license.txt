@@ -1,0 +1,11 @@
+First image derived from "Portrait" by Jose Carlos Fernandez
+Original at http://www.flickr.com/photos/josecarlosff/6808640749/
+
+Second image derived from "Lucy" by Daniel Lee
+Original at http://www.flickr.com/photos/viperstealth/6990399578/
+
+Both images, and all derivatives, including the full morphing animation or snapshots thereof, shared under CC BY-NC 2.0
+http://creativecommons.org/licenses/by-nc/2.0/deed.en
+
+
+The rendering code, not including the images in compressed form (arrays in initial version, string in compressed version) is provided as public domain.

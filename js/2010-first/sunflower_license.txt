@@ -1,0 +1,1 @@
+/* By Tom Hargreaves <hex@freezone.co.uk> 2010, public domain. */

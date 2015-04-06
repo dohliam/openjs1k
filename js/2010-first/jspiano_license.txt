@@ -1,0 +1,10 @@
+/**
+ * copyright Ryan Day 2010
+ * http://ryanday.org/
+ *
+ * mit/gpl dual licensed 
+ *
+ * use it modify it have a ball even make money off of it!
+ *
+ *
+ * */

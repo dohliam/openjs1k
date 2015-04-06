@@ -1,0 +1,1 @@
+(c=document.body.children[0]).height=200;with(c.getContext('2d'))for(translate(99,99),i=1e4;i-=25;rotate(2.4),fillText("◊",0,Math.sqrt(i)));
