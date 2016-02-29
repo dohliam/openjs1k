@@ -55,8 +55,6 @@ This list is being constantly expanded and revised. Going through the vast amoun
 ## Have source repo, no license
 The following js1k submissions are included in Github repos without license information. Authors should be contacted individually to request adding a license.
 
-* [Mine[love]craft, Strange_crystals_II, Buggy_island](https://github.com/ehouais/js1k) | https://github.com/ehouais/js1k | @ehouais
-* [Elimination!](http://js1k.com/2014-dragons/demo/1777) | https://github.com/polgfred/js1k | @polgfred
 * [Tron](http://js1k.com/2013-spring/demo/1428) | https://github.com/alexturpin/js1k-tron | @alexturpin
 * [2048@938](http://js1k.com/2014-dragons/demo/1862) | https://github.com/npup/js1k-2014 | @npup
 * [Cloudy heart](http://js1k.com/2012-love/details/1247) | https://github.com/tehmou/js1k-bubbling-heart | @tehmou
